@@ -1,0 +1,14 @@
+*.o
+*.pyc
+Makedepend
+Makefile
+bin/
+src/defs.h
+src/problem.c
+config.log
+config.status
+configure
+autom4te.cache
+Makeoptions
+png/
+python/notebook/.ipynb_checkpoints
